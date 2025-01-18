@@ -11,7 +11,7 @@ My To do list project is a simple to do list that lets the user add and remove t
 
 This being a pretty simple project primarily taking advantage while loops to help keep the program running. I started the program off by intitalizing the list I would be adding the tasks too. Once intialized I started with the fucntions like checking the list and adding the list, along with subtacring from the list. The programs relys primarily on if statemnts and while loops.
 
-##update:
+## Update:
 I have went back and made a few changes to the program specifically taking advatage of classes. I re-did the program with the intention of making it a OOP.
 
 
