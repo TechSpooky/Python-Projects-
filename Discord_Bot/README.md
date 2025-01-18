@@ -1,5 +1,5 @@
 # My Awesome Project
-This is a discord bot that I made using the nextcord module. The bot was made to whold stats of my schools Esports team. Stats include K/D, W/L, and the GTCC schedule. 
+This is a discord bot that I made using the nextcord module. The bot was made to hold stats of my schools Esports team. Stats include K/D of each player on the team , W/L, and the GTCC schedule. 
 
 ## How It's Made:
 
