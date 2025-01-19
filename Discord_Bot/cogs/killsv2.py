@@ -7,10 +7,10 @@ import mysql.connector
 
 def connect():
     connection = mysql.connector.connect( 
-    host = "localhost",        
-    user = "root",
-    password = "Bigboobies123",
-    database = "GTCC",
+    host = "host",        
+    user = "user",
+    password = "password",
+    database = "database_name",
 )
     if connection.is_connected():
         print('connected to my sql')
@@ -60,7 +60,7 @@ class player():
         k_d = y/x 
         return k_d
 
-testServerID = 1203996727728807996
+testServerID = ##testserver##
 
 class killss(commands.Cog):
     def __init__(self,client):
