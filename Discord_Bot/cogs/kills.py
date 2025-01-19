@@ -3,7 +3,7 @@ from nextcord import Interaction
 from nextcord.ext import commands
 import os
 
-testServerID = 1203996727728807996
+testServerID = ##Test Server
 
 class kills(commands.Cog):
     def __init__(self,client):
