@@ -12,8 +12,7 @@ Although the discord bot does get the job done. I feel as if takingadvantage of 
 
 ## Update
 **Changes** kills.v2
-I went back into the program and added an SQL Server. Doing so gave the program less code neeed and more flexibility. Previosuly the program would have new commands to updat each players stats and if I wanted to add a new player I would have to make another command. Thankfully the SQL server makes everythinh easier. I am able to add as much stats as I want to now inluding adding new players and not just being limited to the amount of coomads I have. The new code is more efficient and easier to work with. Everything is still accesed using the discord bot.
-
+"I went back into the program and added an SQL Server. Doing so made the program require less code and gave it more flexibility. Previously, the program would need new commands to update each player's stats, and if I wanted to add a new player, I would have to create another command. Thankfully, the SQL Server makes everything easier. I am now able to add as many stats as I want, including new players, without being limited to the number of commands I have. The new code is more efficient and easier to work with. Everything is still accessed using the Discord bot.
 
 
 
