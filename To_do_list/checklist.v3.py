@@ -49,6 +49,7 @@ def Home():
     
     choice = 1
     while choice in (1, 2, 3):
+        print("\nOptions:\n1. View Tasks\n2. Add Task\n3. Remove Task")
         choice = int(input('Which would you like to do today! '))
         if choice == 1:
             print(to_do_list)
