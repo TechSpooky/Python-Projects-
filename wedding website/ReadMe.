@@ -1,0 +1,16 @@
+# My Awesome Project
+This is a wedding Page hoping to be able to provide guests with event details, RSVP functionality (in progress), photo albums (in progress), and personal messages.
+2.5/5 are done.
+## How It's Made:
+
+**Tech used:** HTML, CSS
+This wedding website is built using HTML for its structural foundation and CSS for styling and visual presentation, with a separate "Wedding.css" file managing the design.
+The layout includes a navigation bar for accessing different sections like the homepage, albums, countdown, RSVP, events, and attire.
+The homepage incorporates text blocks for personal messages and a video element.
+Attention has been paid to responsiveness across devices using the viewport meta tag, and a custom font, "Great Vibes" from Google Fonts, is integrated for unique typography.
+Contact information is provided through a vertical navigation.
+
+
+
+
+
